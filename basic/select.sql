@@ -1,1 +1,1 @@
-select id_customer from customer;
+select customer_id from customers;
